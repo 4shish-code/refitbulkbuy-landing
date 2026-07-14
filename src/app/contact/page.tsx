@@ -308,6 +308,7 @@ export default function ContactPage() {
                     <option value="billing">Billing Question</option>
                     <option value="feedback">Feedback</option>
                     <option value="partnership">Partnership Opportunity</option>
+                    <option value="franchise">Need ReFit Xpress Outlet / Franchise</option>
                   </select>
                 </div>
                 
@@ -450,6 +451,9 @@ export default function ContactPage() {
               </Link>
               <Link href="/contact" className="hover:text-white transition-colors text-lg">
                 Contact Us
+              </Link>
+              <Link href="/warranty-policy" className="hover:text-white transition-colors text-lg">
+                Warranty Policy
               </Link>
             </div>
 

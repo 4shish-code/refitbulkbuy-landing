@@ -86,6 +86,9 @@ export function Footer() {
               <Link href="/contact" className="hover:text-white transition-colors text-lg">
                 Contact Us
               </Link>
+              <Link href="/warranty-policy" className="hover:text-white transition-colors text-lg">
+                Warranty Policy
+              </Link>
             </div>
 
             {/* Bottom */}
